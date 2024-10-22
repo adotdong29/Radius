@@ -85,6 +85,9 @@ export default function Settings() {
             <Button type="button" onClick={onReset}>
               <RotateCcw className="mr-2 h-5 w-5" /> Reset
             </Button>
+            <Button type="button" onClick={onReset}>
+              <RotateCcw className="mr-2 h-5 w-5" /> Reset Theme
+            </Button>
           </div>
         </form>
       </Form>
