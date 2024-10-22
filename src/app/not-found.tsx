@@ -30,7 +30,7 @@ export default function PageNotFound() {
             Click below to go to the home page.
             <br /> 404 - Page not found
           </CardContent>
-          <CardContent className="mt-4 text-center text-base">
+          <CardContent className="undertext">
             <br /> Try again later. If this problem persists, contact Owski
           </CardContent>
           <CardContent className="mt-4">
